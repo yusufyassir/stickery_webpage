@@ -12,7 +12,10 @@ body{
 div{
     align-items: center;
 }
-
 #stickery1{
     max-width: 70%;
+}
+#png1{
+    max-width: 70%;
+    margin: 7px;
 }
