@@ -1,23 +1,18 @@
 div {
     text-align: center;
     color: white;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body{
     background-color: rgb(133, 204, 216);
 }
 
-#stickery1{
+div{
     align-items: center;
-    justify-content: center;
 }
 
-#content1{
-    font-size: 20px;
-    font-weight: bold;
-
-}
-
-#intro{
-    font-size: 20px;
+#stickery1{
+    max-width: 70%;
 }
